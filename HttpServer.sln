@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34607.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HttpServer", "HttpServer.vcxproj", "{321B2A1D-5164-4E2E-A9B2-68F9EC85F917}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{321B2A1D-5164-4E2E-A9B2-68F9EC85F917}.Debug|x64.ActiveCfg = Debug|x64
+		{321B2A1D-5164-4E2E-A9B2-68F9EC85F917}.Debug|x64.Build.0 = Debug|x64
+		{321B2A1D-5164-4E2E-A9B2-68F9EC85F917}.Debug|x86.ActiveCfg = Debug|Win32
+		{321B2A1D-5164-4E2E-A9B2-68F9EC85F917}.Debug|x86.Build.0 = Debug|Win32
+		{321B2A1D-5164-4E2E-A9B2-68F9EC85F917}.Release|x64.ActiveCfg = Release|x64
+		{321B2A1D-5164-4E2E-A9B2-68F9EC85F917}.Release|x64.Build.0 = Release|x64
+		{321B2A1D-5164-4E2E-A9B2-68F9EC85F917}.Release|x86.ActiveCfg = Release|Win32
+		{321B2A1D-5164-4E2E-A9B2-68F9EC85F917}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93794072-F9FE-4BF3-A945-0E139F1F472F}
+	EndGlobalSection
+EndGlobal
